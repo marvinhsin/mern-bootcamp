@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Stack Fullstack Web Development Course
 
 Welcome to the MERN Stack Fullstack Web Development Course repository! This project repository is your gateway to mastering Fullstack development using the MERN stack, comprising MongoDB, Express.js, React.js, and Node.js.
@@ -36,3 +37,6 @@ We believe in building a community of learners and developers. Connect with us a
 - **Discord**: [Join our Discord community](https://discord.com/invite/k8X6W9DC2Q)
 
 We're excited to have you on board and look forward to supporting you on your journey to becoming a full-stack developer with the MERN stack. Happy coding!
+=======
+# mern-bootcamp
+>>>>>>> f5dfd146e0abc4a9a9304177b7c6e457eec7fd38
